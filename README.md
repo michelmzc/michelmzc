@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michelmzc
 - 👀 I’m interested in introducing myself to tech industry
 - 🌱 I’m currently learning Gatsby, Jekyll and more!
-- 📫 How to reach me www.michelmzc.com and github contact
+- 📫 How to reach me michelmzc.github.io and github contact
 
 <!---
 michelmzc/michelmzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
