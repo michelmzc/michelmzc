@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @michelmzc
 - 👀 I’m interested in introducing myself to tech industry
-- 🌱 I’m currently learning CS disciplines
 - 📫 How to reach me: michelmzc.github.io and github contact
 
 <!---
